@@ -1,0 +1,6 @@
+<svg width="320" height="160" viewBox="0 0 320 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="160" rx="28" fill="#EEF3F7"/>
+  <circle cx="76" cy="80" r="28" fill="#0F4C5C"/>
+  <path d="M116 64H242V76H116V64ZM116 86H210V98H116V86Z" fill="#233045"/>
+  <text x="116" y="122" fill="#596579" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700">Northbridge</text>
+</svg>
