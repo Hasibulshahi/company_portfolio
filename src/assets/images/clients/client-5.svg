@@ -1,7 +1,0 @@
-<svg width="320" height="160" viewBox="0 0 320 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="320" height="160" rx="28" fill="#EEF3F7"/>
-  <path d="M53 99H111V61H53V99Z" fill="#0F4C5C"/>
-  <path d="M68 84H96" stroke="#EEF3F7" stroke-width="8" stroke-linecap="round"/>
-  <path d="M136 63H248V75H136V63ZM136 85H230V97H136V85Z" fill="#233045"/>
-  <text x="136" y="122" fill="#596579" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700">Summit Freight</text>
-</svg>

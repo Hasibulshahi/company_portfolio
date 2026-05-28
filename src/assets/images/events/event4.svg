@@ -1,9 +1,0 @@
-<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="760" fill="#09111F"/>
-  <rect x="108" y="120" width="984" height="520" rx="48" fill="#FFFFFF" fill-opacity="0.08"/>
-  <path d="M210 564C282 428 408 324 566 324C724 324 850 428 922 564" stroke="#C88A5D" stroke-width="36" stroke-linecap="round"/>
-  <circle cx="388" cy="292" r="56" fill="#6EA7B4"/>
-  <circle cx="598" cy="252" r="56" fill="#C88A5D"/>
-  <circle cx="806" cy="292" r="56" fill="#0F4C5C"/>
-  <text x="190" y="204" fill="#F8FBFD" font-family="Georgia, serif" font-size="68">Community Build Week</text>
-</svg>
